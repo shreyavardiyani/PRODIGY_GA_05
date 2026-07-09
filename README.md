@@ -92,6 +92,5 @@ Through this project, I learned:
 - Applying artistic styles to multiple content images
 - Working with TensorFlow in Google Colab
 
----
 
 
